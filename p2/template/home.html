@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Home</title>
+	<link rel="stylesheet" href="./static/homestyle.css">
+</head>
+<body>
+    <div class="space">
+	<br>
+		<div class="navbar">
+			<div class="menu">
+				<ul>
+					<!-- <li><a href="#">PROFILE</a></li> -->
+					<li><a href="/cart">ORDERS</a></li>
+					<li><a href="/wl">WISHLIST</a></li>
+					<li><a href="/logout">LOGOUT</a></li>
+					<form action="/search" method="POST">
+						<input type="number" name="product_id" placeholder="Enter product id">
+						
+					</form>
+				</ul>
+			</div>
+		</div>
+		<div class="ab">
+			<h2 class="top">CATEGORIES</h2>
+			<table class="cat">
+				{% for data in profiles %}
+				<tbody class="bod">
+					<tr>
+						<td class="items"><a href="/select/{{data[0]}}" type="button">{{data[1]}}</a></td>
+					</tr>
+				</tbody>
+				{% endfor%}
+			</table>
+		</div>
+    </div>
+</body>
+</html>

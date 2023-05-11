@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel="stylesheet" href="./static/cartstyle.css">
+	<title>Cart</title>
+</head>
+<body>
+
+	<div class="main">
+		<div class="navbar">
+			<div class="menu">
+				<ul>
+					<li><a href="/home">HOME</a></li>
+					<!-- <li><a href="#">PROFILE</a></li> -->
+					<li><a href="/cart">ORDERS</a></li>
+					<li><a href="/wl">WISHLIST</a></li>
+				</ul>
+			</div>
+		</div>
+		<h3 class="h3">Orders</h3>
+	<br>
+	<div class="ab">
+		<h1 class="top"> PRODUCTS YOU ORDERED</h1>
+		<table class="tb">
+			<!-- <thead>
+				<th class="hn">Products in Cart</th>
+			</thead> -->
+			{% for data in profiles %}
+			<tbody>
+				<td class="it">{{data[0]}}</td>
+			</tbody>
+			{% endfor%}
+		</table>
+	</div>
+	</div>
+</body>
+</html>

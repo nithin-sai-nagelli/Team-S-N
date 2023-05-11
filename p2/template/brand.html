@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Document</title>
+	<link rel="stylesheet" href="../static/brandstyle.css">
+</head>
+<body>
+    <div class="space">
+	<br>
+		<div class="navbar">
+			<div class="menu">
+				<ul>
+					<li><a href="/home">HOME</a></li>
+					<li><a href="/cart">ORDERS</a></li>
+					<li><a href="/wl">WISHLIST</a></li>
+				</ul>
+			</div>
+		</div>
+		<div class="ab">
+			<h2 class="top">BRANDS</h2>
+			<table class="cat">
+				{% for data in profiles %}
+				<tbody>
+					<tr>
+						<td class="items"><a href="/selectp/{{data[0]}}" type="button">{{data[1]}}</a></td>
+					</tr>
+				</tbody>
+				{% endfor%}
+			</table>
+		</div>
+    </div>
+</body>
+</html>

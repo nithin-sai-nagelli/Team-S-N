@@ -1,0 +1,80 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.main{
+    width: 100%;
+    background: linear-gradient(to top, rgba(0,0,0,0.4)50%,rgba(0,0,0,0.4)50%),url(bg.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 120vh;
+}
+
+.su{
+    position: relative;
+    width: 500px;
+    height: auto;
+    left: 200px;
+    top: 200px;
+}
+
+.su h2{
+    position: relative;
+    left: 150px;
+    width: 200px;
+    height: 35px;
+    align-self: center;
+    background: rgb(145, 167, 111);
+    font-family: Verdana;
+    font-size: 20px;
+    font-weight: lighter;
+    border-radius: 5px;
+    text-align: center;
+    padding-top: 10px;
+    border: 1px solid black;
+}
+
+.su form{
+    position: relative;
+    left: 100px;
+}
+
+.su form label{
+    font-size: 20px;
+    color: black;
+    font-family:Verdana;
+}
+.su form input{
+    width: 300px;
+    height: 30px;
+    border-radius: 3px;
+}
+
+::placeholder{
+    color: black;
+    background-color: white;
+    font-size: 16px;
+    font-family: 'Segoe UI';
+    width: 200px;
+    border-radius: 3px;
+}
+
+.su form button{
+    position: relative;
+    left: 50px;
+    width: 200px;
+    height: 35px;
+    background: rgb(155, 197, 70);
+    font-family: Verdana;
+    font-size: 20px;
+    font-weight: lighter;
+    border-radius: 5px;
+    text-align: center;
+    cursor: pointer;
+    transition: 0.4s ease;
+} 
+
+.su form button:hover{
+    background-color: white;
+}

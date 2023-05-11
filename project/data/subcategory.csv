@@ -1,0 +1,352 @@
+subcat_id,subcategory
+1,Crayon à sourcils & Amplificateur
+2,Soins des lèvres
+3,Fond de teint
+4,Vegetables
+5,Lits & Tapis
+6,Outils
+7,Bougies & Bougeoirs
+8,Boîtes d'oreiller
+9,Lampes & Lumières décoratives
+10,Fonds de photo
+11,Stickers 3D
+12,Colliers
+13,Shorts
+14,Boxers & Slips de bain
+15,Sweaters
+16,Sandales & Mules
+17,Sandales
+18,Jupes
+19,Robes en dentelle
+20,Boho Dresses
+21,Chaussettes & Collants
+22,Straw Hats
+23,Sacs de voyage
+24,Lunettes
+25,Tondeuse pour poils
+26,Autres outils de cheveux
+27,Coffrets Maquillage
+28,Sacs à déjeuner
+29,Serviettes de mains
+30,Chaînes de lumières
+31,Anti-stress
+32,Alarme Smart
+33,Broderie à point de croix
+34,Toys
+35,Baking & Pastry Tools
+36,Pantalons & Jupes
+37,Vestes
+38,Sweatshirts
+39,Bottes & Chaussures montantes
+40,Foulards & Écharpes
+41,Autres
+42,Pochettes
+43,Pinceaux
+44,Massage & Relaxation
+45,Highlighters & Bronzers
+46,Spa & Aromathérapie & Diffuseurs
+47,Fers à friser pour cheveux
+48,Soin visage
+49,Boîte d'assaisonnement
+50,Water Bags
+51,Housses de canapé
+52,Coffee Makers
+53,Bottes de pluie
+54,Zinc Alloy
+55,T-Shirts
+56,SOUS-VÊTEMENTS
+57,Sneakers & Baskets
+58,Kimonos & Tank Tops
+59,Suits & Co-ords
+60,Grande Taille
+61,Tankinis
+62,Beanie Hat
+63,Portefeuilles
+64,Stickers ongles
+65,Coloration cheveux
+66,Faux cils
+67,Home Carpets
+68,Coussins & Oreillers
+69,Outils de cuisine & Gadgets
+70,Fasteners & Hooks
+71,Boîtes- Chenils & Grillage
+72,Other Home Tools
+73,Sécurité de maison
+74,Baking Mats & Liners
+75,Housses d'Habit & Baggage
+76,Fournitures de nettoyage
+77,Alarmes
+78,Sets de Chaises & Bureaux & Selles
+79,Montres pour femme
+80,Bracelets
+81,Tops
+82,Vêtements d'extérieur & Manteaux
+83,Pantalons
+84,Suit Jackets
+85,Slipper
+86,Shorts & Jupes
+87,Robes vintage
+88,Denim & Jeans
+89,Culotte haute
+90,Survêtements
+91,Brassières de sport
+92,Correcteur
+93,Poudre libre
+94,Soins des oreilles
+95,Soins des pieds
+96,Vernis à ongles
+97,Flowers
+98,Fruit & Vegetable Tools
+99,Lampes de bureau
+100,Enamel Cups
+101,Serviettes de bain
+102,Jardin & Lumières à l'extérieur
+103,Conteneurs de savons
+104,Bonnets de douche
+105,Outdoor Tools
+106,Cuisine & Accessoires
+107,Horloges
+108,Other Garden Tools
+109,Montres pour homme
+110,Montres couple
+111,Costumes pour bébé
+112,Coutumes & Co-ords
+113,Golf Shirts
+114,Boxers
+115,Robes imprimées
+116,Combinaison
+117,Une-Pièces
+118,Sacs à main
+119,Soins dentaires
+120,Nailart
+121,Tapisseries
+122,Water Bottles & Sports
+123,Coffee- Tea & Espresso
+124,Casquettes de séchage de cheveux
+125,Arrosage & Irrigation
+126,Gloves
+127,Pommes de douche & Accessoires
+128,Étui de portables & Support
+129,Teapots
+130,Coffee Grinders
+131,Pots
+132,T-shirts
+133,Chemises
+134,Combinaison & Salopette
+135,Jackets
+136,Soutiens-gorge
+137,Sacs chic
+138,CHEVEUX
+139,Smart Home
+140,Sacs de stockage
+141,Outdoor & Picnic
+142,Fourniture de brosse à dents
+143,Coffee Filters
+144,Terrasse & Cour
+145,Graine
+146,Draps & Sangles
+147,Ballons & Accessoires
+148,Peinture sur toile
+149,Drainage Products
+150,Jouets pour enfant
+151,Chapeaux
+152,PANTALONS & SHORTS
+153,Pantalons & Shorts
+154,Robes décontractées
+155,Blazers
+156,Couple-ongle
+157,Gloss à lèvres
+158,Perruques synthétiques
+159,Polissoir pour ongles
+160,Lampes sur mur
+161,Other Tools
+162,Sacs de voyage & shopping
+163,Habit
+164,Habit & Chaussures
+165,Aprons
+166,Aide d'entraînement
+167,Étui & Étagère
+168,Car & Travel
+169,Étuis & Crochets
+170,Bath Supplies
+171,Clothes Hooks
+172,Coffrets & Sacs de bijoux
+173,Robes
+174,Pantalons & Capris
+175,Shorts de bain
+176,Tanks
+177,Baskets
+178,Vestes & Gilets
+179,Ceintures & Bretelles
+180,Porte-documents
+181,Rouge à lèvres
+182,Produits de lavage et de séchage
+183,Desktop Holder
+184,Accessoires des toilettes
+185,Tissus
+186,Sacs pour plantes & Aquaculture
+187,Fournitures de pâtisserie
+188,Bracelets de cheville
+189,Salopettes & Combinaisons
+190,Blousons & Vestes
+191,Brassières de grossesse
+192,Cardigans
+193,MAILLOTS DE BAIN
+194,Bottoms
+195,Onesies
+196,VESTES & MANTEAUX
+197,Escarpins
+198,Chaussons
+199,Pulls & Cardigans
+200,Sweatershirts
+201,Bucket Hat
+202,Masques
+203,Sleeping Bags
+204,Boîte de stockage
+205,Baskets de stockage
+206,Serviettes de sport
+207,Window & Door Screen
+208,Fournitures de papeterie
+209,Outils à main
+210,Draps & Rideaux
+211,Openers
+212,Repair Parts & Accessories
+213,Pizza Tools
+214,Oil Sprayers & Dispensers
+215,Bagues pour homme
+216,Sets de bijoux
+217,Shirts
+218,Mocassins
+219,Plateforme
+220,Combinaisons & Grenouillères
+221,Robes sexy
+222,Maillots de bain
+223,Eyeliner
+224,Vêtements minceur
+225,Accessoires soin visage
+226,Sports Equipments
+227,Brosses & Peignes
+228,Pesticides
+229,Sacs de stockage de voiture
+230,Tea Infusers
+231,Food Storage
+232,Autocollants de murs
+233,Rideaux de bain
+234,Jouets faits à main
+235,Literie de bébé
+236,Vase- Basket & Boîte
+237,Slips
+238,Claquettes & Tongs
+239,Bikinis &Tankinis
+240,Étui & Sac des monnaies
+242,Lampes de chevet
+243,Housses de chaises
+244,Car Seat Cover
+245,Jouets
+246,Oreillers
+247,Grasses
+248,Accessoires
+249,Skewers
+250,Shoe Rack
+251,Meat & Poultry Tools
+252,Instruments de Mesure & Analyse
+253,Boucles d'oreilles
+254,Bagues
+255,Hoodies
+256,Doudounes & Parkas
+257,Derbies & Mocassins
+258,Tops courts
+259,Lunettes de lecture
+260,Rasoirs
+261,Fard à paupières
+262,Miroirs
+263,Sacs d'organisation de maison
+264,Sacs de ligne & cosmétique
+265,Colliers- Harnais & Laisses
+266,Barware
+267,Sacs de data digital
+268,Literie
+269,Parapluies & Parasol
+270,Décoration & Nouveauté
+271,Flatware
+272,Egg Tools
+273,Fleurs & Plantes artificielles
+274,Fruits
+275,Tops & Tees
+276,Vêtements de nuit
+277,Tops & T-shirt
+278,Sacs des couches
+279,Henley Shirts
+280,Chaussures de ville
+281,Robes maxi
+282,MANTEAUX & PULLS
+283,Gants
+284,Sac bandoulière
+285,Houppe à poudre de maquillage
+286,Épilateur
+287,Autres produits des soins personnels
+288,Serviettes de plage
+289,Appareils électriques de cuisine
+290,Bowls & Plates
+291,Ventilateur
+292,Peignoirs- Serviettes & Bonnets de Bain
+293,Cadeaux
+294,Hammocks
+295,Montres connectées
+296,Bas
+297,Suits
+298,Overcoats
+299,Gilets
+300,Bottes & Bottines
+301,Blouses & Chemises
+302,Hoodies & Sweatshirts
+303,TOPS
+304,Baseball Caps
+305,Chapeaux & Bonnets
+306,Trousses
+307,Sleep & Snoring
+308,Couture
+309,Outils de nettoyage de cuisine
+310,Cups & Mugs
+311,Tapis de salle de bain
+312,Flatware & Utensil Storage
+313,Produits de voyage
+314,Stockage & Conteneur d'organisation
+315,Brosses de nettoyage
+316,Nettoyage- Toilettage & Beauté
+317,Dessert Decorators
+318,Plaques & Signes
+319,Traitement de fenêtres de voiture
+320,Salt & Pepper Mills
+321,Produits de savons
+322,Projection de scène
+323,Sécurité de salle de bain
+324,Waistcoats
+325,Kimonos
+326,Leggings
+327,Sacs à dos
+328,Pochettes & Clutches
+329,Housses de coussin
+330,Couvertures
+331,Jouets Squishy
+332,Robes de bain
+333,Colanders & Strainers
+334,Lunch Boxes
+335,Mangeoirs & Abreuvoirs
+336,Nécessaires à boire
+337,Ice Cube Molds & Trays
+338,Santé
+339,Poupées & Jouets farcis
+340,Cleaning Tools
+341,Vacuum Bottle
+342,Cake Molds
+343,Robinets d'évier de cuisine
+344,Montres de poche
+345,Costume & Jupe-culotte
+346,Robes & Sacs de couchage
+347,Pyjama
+348,Jumpsuits
+349,Caleçons longs
+350,Débardeurs
+351,Shapewears
+352,Cover-Ups

@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Products</title>
+	<link rel="stylesheet" href="../static/productstyle.css">
+</head>
+<body>
+    <div class="space">
+		<div class="navbar">
+			<div class="menu">
+				<ul>
+					<li><a href="/home">HOME</a></li>
+					<li><a href="/cart">ORDERS</a></li>
+					<li><a href="/wl">WISHLIST</a></li>
+				</ul>
+				
+			</div>
+		</div>
+
+		<!-- <form action="/search" method="POST">
+			<input type="number" name="product_id" placeholder="Enter product id">
+			<button class="btn">search</button>
+		</form> -->
+
+		<div class="main">
+			<div class="grid">
+				{% for data in profiles %}
+				<div class="box">
+					<figure class="im">
+						<a href="/selecti/{{data[1]}}" type="button"><img src={{data[2]}} alt="Trulli" width:100 height:100></a>
+						<figcaption class="cc">{{data[1]}}</figcaption>
+					</figure> 
+				</div>
+				{% endfor%}
+			</div>
+		</div>
+    </div>
+</body>
+</html>

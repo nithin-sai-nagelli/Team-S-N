@@ -1,0 +1,109 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.space{
+    width: 100%;
+    background: linear-gradient(to top, rgba(0,0,0,0.4)50%,rgba(0,0,0,0.4)50%),url(bg.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: auto;
+    min-height: 100vh;
+}
+
+.navbar{
+    width: 400px;
+    height: 70px;
+}
+
+.menu{
+    width: 400px;
+    float: left;
+    height: 70px;
+}
+
+ul{
+    float: left;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+ul li{
+    list-style: none;
+    margin-left: 62px;
+    margin-top: 27px;
+    font-size: 18px;
+}
+
+ul li a{
+    text-decoration: none;
+    color: rgb(33, 201, 0);
+    font-family: 'Segoe UI';
+    font-weight: bold;
+    transition: 0.4s ease-in-out;
+}
+
+ul li a:hover{
+    color: orange;
+}
+
+
+
+
+
+.main{
+    padding-top: 100px;
+    width: auto;
+    max-width: 1280px;
+    min-height: 520px;
+    max-height: 520px;
+    margin: 20px auto 0px ;
+    display: flex;
+    flex-wrap: wrap;
+    position: relative;
+    box-shadow: inset 0 0 10px rgb(220, 230, 125);
+    border: 0.25px solid rgb(220, 230, 125);
+    border-radius: 20px;
+    backdrop-filter: blur(10px);
+    justify-content: top;    
+    flex-direction: column;
+    align-items: center;
+    padding: 50px;
+    font-size: 20px;
+    overflow: hidden;
+    overflow-y: scroll;
+}
+
+.main::-webkit-scrollbar{
+    display: none;
+}
+
+.grid{
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    grid-gap: 10px;
+    align-items: center;
+}
+
+.box{
+    width: 216px;
+    height: 200px;
+    align-items: center;
+    justify-content: center;
+}
+
+.im{
+    flex: 0 0 25%;
+    position: relative;
+}
+
+.im .cc{
+    font-size: 20px;
+    color: white;
+    font-family: 'Segoe UI';
+    padding-left: 20px;
+}

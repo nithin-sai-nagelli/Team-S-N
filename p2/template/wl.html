@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="./static/cartstyle.css">
+<head>
+	<title>Wishlist</title>
+</head>
+<body>
+
+	<div class="main">
+		<div class="navbar">
+			<div class="menu">
+				<ul>
+					<li><a href="/home">HOME</a></li>
+					<!-- <li><a href="#">PROFILE</a></li> -->
+					<li><a href="/cart">ORDERS</a></li>
+					<li><a href="/wl">WISHLIST</a></li>
+				</ul>
+			</div>
+		</div>
+		<h3 class="h3">Wishlist</h3>
+	<br>
+	<div class="ab">
+		<table class="tb">
+			{% for data in profiles %}
+			<tbody>
+				<td class="it">{{data[0]}}<a href="/rmv_from_wl/{{data[0]}}" type="button">(remove)</a></td>
+				<!-- <td><a href="/rmv_from_wl/{{data[0]}}" type="button">remove</a></td> -->
+			</tbody>
+			{% endfor%}
+		</table>
+	</div>
+	</div>
+</body>
+</html>

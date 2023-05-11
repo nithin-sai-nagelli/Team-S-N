@@ -1,0 +1,12 @@
+COPY customer from '/home/postgres/project/data/customer.csv' DELIMITER ',' CSV HEADER;
+COPY Product from '/home/postgres/project/data/product.csv' DELIMITER ',' CSV HEADER;
+COPY Brand from '/home/postgres/project/data/brand.csv' DELIMITER ',' CSV HEADER;
+COPY Category from '/home/postgres/project/data/category.csv' DELIMITER ',' CSV HEADER;
+COPY Subcategory from '/home/postgres/project/data/subcategory.csv' DELIMITER ',' CSV HEADER;
+COPY BrandHasPdt from '/home/postgres/project/data/BrandHasPdt.csv' DELIMITER ',' CSV HEADER;
+COPY CartHasPdt from '/home/postgres/project/data/CartHasPdt.csv' DELIMITER ',' CSV HEADER;
+COPY Bought from '/home/postgres/project/data/Bought.csv' DELIMITER ',' CSV HEADER;
+COPY SubCatHasBrand from '/home/postgres/project/data/SubCatHasBrand.csv' DELIMITER ',' CSV HEADER;
+COPY WLhasPdt from '/home/postgres/project/data/WLhasPdt.csv' DELIMITER ',' CSV HEADER;
+COPY CatHasSubcat from '/home/postgres/project/data/CatHasSubCat.csv' DELIMITER ',' CSV HEADER;
+COPY Productlink from '/home/postgres/project/data/productlink.csv' DELIMITER ',' CSV HEADER;

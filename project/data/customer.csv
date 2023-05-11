@@ -1,0 +1,4 @@
+user_id,type,name,password,phone_no,email_id,address
+1001,admin,Sekhar,22131312,9876543201,sekhar@dash.com,"Vizianagaram,AP"
+1002,customer,Nithin,45678901,9256183610,nithin@dash.com,"Miryalaguda,Telangana"
+1003,customer,Abhi,91836172,7815356034,abhi@dash.com,"Huzurnagar,telangana"

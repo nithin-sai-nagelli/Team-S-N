@@ -1,0 +1,123 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.main{
+    width: 100%;
+    background: linear-gradient(to top, rgba(0,0,0,0.4)50%,rgba(0,0,0,0.4)50%),url(bg.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+}
+
+.icon{
+    width: 500px;
+    float: left;
+    height: 70px;
+}
+
+.Logo{
+    color: black;
+    font-size: 35px;
+    font-family: Verdana;
+    padding-left: 220px;
+    float: left;
+    padding-top: 100px;
+}
+
+.space{
+    height:150px;
+    background: linear-gradient(to top,rgba(0,0,0,0)60%,rgba(0,0,0,0)40%);
+}
+
+.login{
+    position: relative;
+    width: 250px;
+    height: 250px;
+    left: 200px;
+    background: linear-gradient(to top,rgba(0,0,0,0)60%,rgba(0,0,0,0)40%);
+    padding: 20px;
+    border-radius: 20px;
+}
+
+.login h2{
+    width: 215px;
+    text-align: center;
+    background-color: white;
+    font-size: medium;
+    font-family: Arial;
+    border-radius: 10px;
+    padding: 8px;
+    padding-top: 7px;
+    margin: 10px;
+    color: midnightblue;
+}
+
+.login input{
+    width: 215px;
+    height: 35px;
+    margin: 6px;
+    background: linear-gradient(to top,rgba(0,0,0,0.01)50%,rgba(0,0,0,0.01)50%);
+    border-bottom: 1px solid black ;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-radius: 4px;
+    color: white;
+    font-size: 15px;
+    font-family: Arial;
+}
+
+.login input:focus{
+    outline: none;
+}
+
+::placeholder{
+    color: white;
+    font-size: 17px;
+    font-family: Arial;
+}
+
+.btn{
+    width: 100px;
+    height: 40px;
+    background:white;
+    border-radius: 5px;
+    border: none;
+    margin-top: 20px;
+    margin-left: 70px;
+    font-size: 17px;
+    cursor: pointer;
+    transition: 0.4s ease;
+}
+
+.btn:hover{
+    background: yellowgreen;
+}
+
+.btn a{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+
+.login .warn{
+    font-size: small;
+    background: red;
+    color: white;
+    border: 1px solid balck;
+}
+
+.login .link{
+    font-family: Verdana;
+    font-size: 18.6px;
+    padding-top: 20px;
+    text-align: center;
+}
+
+.login .link a{
+    text-decoration: none;
+    color: white;
+    transition: 0.4s ease;
+}
